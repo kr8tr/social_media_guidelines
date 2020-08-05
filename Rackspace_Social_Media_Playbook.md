@@ -29,9 +29,9 @@ Rules**.
 
 ## Hard and Fast Rules
 
-1. Avoid mentioning our stock or using *RAX* in anything public.
+1. Avoid mentioning our stock or using *RXT* in anything public.
 
-   Since *RAX* is our stock ticker symbol, legally speaking, what you can or
+   Since *RXT* is our stock ticker symbol, legally speaking, what you can or
    can't talk about becomes a gray area pretty quickly (even if your profile is private). 
    What is or isn't public and how people will take what you say is never a certain thing; it could be
    a huge headache for everyone involved. Not talking about the stock is really
